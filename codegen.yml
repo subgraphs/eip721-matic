@@ -1,5 +1,5 @@
 overwrite: true
-schema: https://api.thegraph.com/subgraphs/name/0xorg/non-standard-nfts
+schema: https://api.thegraph.com/subgraphs/name/quantumlyy/eip721-subgraph-matic
 generates:
   ./generated/ts/api.d.ts:
     plugins:
